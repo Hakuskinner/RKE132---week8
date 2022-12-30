@@ -1,0 +1,15 @@
+C:\Users\SpireBlack\source\repos\week8\week8\obj\Debug\net6.0\week8.csproj.AssemblyReference.cache
+C:\Users\SpireBlack\source\repos\week8\week8\obj\Debug\net6.0\week8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SpireBlack\source\repos\week8\week8\obj\Debug\net6.0\week8.AssemblyInfoInputs.cache
+C:\Users\SpireBlack\source\repos\week8\week8\obj\Debug\net6.0\week8.AssemblyInfo.cs
+C:\Users\SpireBlack\source\repos\week8\week8\obj\Debug\net6.0\week8.csproj.CoreCompileInputs.cache
+C:\Users\SpireBlack\source\repos\week8\week8\bin\Debug\net6.0\week8.exe
+C:\Users\SpireBlack\source\repos\week8\week8\bin\Debug\net6.0\week8.deps.json
+C:\Users\SpireBlack\source\repos\week8\week8\bin\Debug\net6.0\week8.runtimeconfig.json
+C:\Users\SpireBlack\source\repos\week8\week8\bin\Debug\net6.0\week8.dll
+C:\Users\SpireBlack\source\repos\week8\week8\bin\Debug\net6.0\week8.pdb
+C:\Users\SpireBlack\source\repos\week8\week8\obj\Debug\net6.0\week8.dll
+C:\Users\SpireBlack\source\repos\week8\week8\obj\Debug\net6.0\refint\week8.dll
+C:\Users\SpireBlack\source\repos\week8\week8\obj\Debug\net6.0\week8.pdb
+C:\Users\SpireBlack\source\repos\week8\week8\obj\Debug\net6.0\week8.genruntimeconfig.cache
+C:\Users\SpireBlack\source\repos\week8\week8\obj\Debug\net6.0\ref\week8.dll
